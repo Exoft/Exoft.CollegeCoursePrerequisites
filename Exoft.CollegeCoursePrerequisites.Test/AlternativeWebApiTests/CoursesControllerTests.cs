@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Exoft.CollegeCoursePrerequisites.Test.AlternativeWebApiWebApiTests
+namespace Exoft.CollegeCoursePrerequisites.Test.AlternativeWebApiTests
 {
     [TestClass]
     public class CoursesControllerTests
